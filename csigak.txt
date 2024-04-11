@@ -1,0 +1,50 @@
+Candidula intersecta;fonatos kórócsiga
+Candidula unifasciata;egycsíkú kórócsiga
+Candidula unifasciata soosiana;egycsíkú magyar kórócsiga
+Cernuella neglecta;rőtszájú kórócsiga
+Euomphalia strigella;nagy bokorcsiga
+Helicopsis instabilis;változékony kórócsiga
+Helicopsis striata;bordás kórócsiga
+Helicopsis striata hungarica;bordás magyar kórócsiga
+Hygromia cinctella;világostarajú bokorcsiga
+Kovacsia kovacsi;dobozi pikkelyescsiga
+Lozekia transsylvanica;erdélyi pikkelyescsiga
+Monacha cartusiana;tejfehér kórócsiga
+Monachoides incarnata;vörösínyű bokorcsiga
+Monachoides vicinus;zártköldökű bokorcsiga
+Perforatella bidentata;fehérajkú kétfogúcsiga
+Perforatella dibothrion;rőtajkú kétfogúcsiga
+Petasina filicina;szőrös bokorcsiga
+Petasina unidentata;egyfogú bokorcsiga
+Pseudotrichia rubiginosa;rozsdavörös bokorcsiga
+Trichia bakowskii;sima bokorcsiga
+Trichia erjaveci;szemcsés bokorcsiga
+Trichia hispida;sörtés bokorcsiga
+Trichia lubomirskii;cseh bokorcsiga
+Trichia striolata;csíkos bokorcsiga
+Urticicola umbrosus;árnyékkedvelő hímescsiga
+Xerolenta obvia;lapos kórócsiga
+Bielzia coerulans;kék meztelencsiga
+Lehmannia marginata;fáramászó meztelencsiga
+Lehmannia nictelia;éjszakai meztelencsiga
+Lehmannia valentiana;sárgás meztelencsiga
+Limacus flavus;üreglakó meztelencsiga
+Limax cinereoniger;fehércsíkos meztelencsiga
+Limax maximus;óriás meztelencsiga
+Malacolimax tenellus;kecses meztelencsiga
+Aegopinella minor;gyakori kristálycsiga
+Aegopinella nitens;mosoni kristálycsiga
+Aegopinella pura;rácsos kristálycsiga
+Aegopinella ressmanni;szélesszájú kristálycsiga
+Daudebardia brevipes;kurta félmeztelencsiga
+Daudebardia rufa;húzotthéjú félmeztelencsiga
+Mediterranea depressa;lapos kristálycsiga
+Mediterranea hydatina;talajlakó kristálycsiga
+Mediterranea inopinata;melegtűrő kristálycsiga
+Morlina glabra;sima kristálycsiga
+Morlina glabra striata;nagy sima kristálycsiga
+Nesovitrea hammonis;sugaras kristálycsiga
+Oxychilus cellarius;pincelakó kristálycsiga
+Oxychilus draparnaudi;nagy kristálycsiga
+Oxychilus orientalis (Cellariopsis deubeli);keleti kristálycsiga
+Oxychilus translucidus;áttetsző kristálycsiga
