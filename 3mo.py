@@ -23,3 +23,16 @@ for i in range(len(csigak)):
         db +=1
     
 print(f"{db} db meztelencsiga található az adatok között")
+
+be_csiga = input("Kérem a csiga latin nevét: ")
+def kereses(csigak, s):
+    i = 0
+    
+    while i < len(csigak) and not (csigak[i]['latin'].lower) == s.lower():
+        i+=1
+        if i < len(csigak):
+            return csigak[i]["magyar"]
+        else: 
+            return "Nincs ilyen latin nevű csiga a listában"
+
+print(f"A csiga magyar neve: \n {kereses(csigak, be_csiga)}")
